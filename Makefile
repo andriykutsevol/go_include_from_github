@@ -15,7 +15,7 @@ set_vars:
 install_deps:
 	$(MAKE) set_vars
 	rm -f go.mod go.sum
-	go mod init github.com/andriykusevol/go_simple_template
+	go mod init github.com/andriykusevol/go_include_from_github
 	go mod tidy
 
 build:
