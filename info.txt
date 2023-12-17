@@ -1,0 +1,1 @@
+go mod init go_include_from_github
