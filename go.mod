@@ -1,4 +1,4 @@
-module github.com/andriykusevol/go_include_from_github
+module github.com/andriykutsevol/go_include_from_github
 
 go 1.22.2
 

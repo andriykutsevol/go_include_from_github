@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/andriykutsevol/go_module_template"
-	"github.com/andriykusevol/go_include_from_github/justmylocalpackage"
+	"github.com/andriykutsevol/go_include_from_github/justmylocalpackage"
 )
 
 
